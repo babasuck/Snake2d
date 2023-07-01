@@ -1,0 +1,6 @@
+#define SNAKE_MENU 30
+#define MENU_RESET 100
+
+SNAKE_MENU MENU {
+	MENUITEM "Reset", MENU_RESET 
+}
